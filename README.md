@@ -63,10 +63,17 @@ This is my personal homepage, providing a brief introduction to my background an
 Papers are provided as PDFs, with most also available on arXiv. In accordance with theoretical computer science conventions, author lists follow **alphabetical order** (indicating equal contribution). Publications are categorized into journals, conferences, and manuscripts, numbered chronologically with the oldest work as #1. Items are listed in descending order (most recent first).
 
 #### Journals
+<!-- *J3*. *Strategyproof Mechanisms for Extending the Accessibility Range of Facilities*  
+  with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), and Yanxi Xie (谢妍曦)  
+  *In [JAIR 2026](https://www.jair.org/index.php/jair)* (Not published, journal version with extension of C3) -->
 
-*J1*. *Hotelling-Downs with Facility Synergy: The Mall Effect*  
+<!-- *J2*. *Hotelling-Downs with Facility Synergy: The Mall Effect*  
   with [Elliot Anshelevich](https://sites.google.com/view/elliot-anshelevich) and [Noah Prisament](https://noahprisament.com/)  
-  *In [TEAC 2026](https://dl.acm.org/journal/teac)* (Not published, journal version of C6)
+  *In [TEAC 2026](https://dl.acm.org/journal/teac)* (Not published, journal version of C6) -->
+
+*J1*. *Strategyproof Facility Location with Prediction: Minimizing the Maximum Cost*  
+with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
+*In [JAAMAS 2026](https://link.springer.com/journal/10458)* (Not published, journal version with extension of C5)
 
 #### Conferences
 *C7*. *[Obnoxious Facility Location Problems: Strategyproof Mechanisms Optimizing $L_p$-Aggregated Utilities and Costs](https://arxiv.org/abs/2512.18620)*  
@@ -84,7 +91,7 @@ Papers are provided as PDFs, with most also available on arXiv. In accordance wi
 *C4*. *[Mechanism Design for Connecting Regions Under Disruptions](https://ojs.aaai.org/index.php/AAAI/article/view/33496)*  
   with [Hau Chan](http://cse.unl.edu/~hchan/), Zining Qin, and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
   *In [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)*  
-  Full paper (with appendix) available [here](https://linjianan.github.io/publications/AAAI__MD_for_Obstacle_Full_Paper_Version.pdf)
+  Full paper (with appendix) available [here](./publications/AAAI__MD_for_Obstacle_Full_Paper_Version.pdf)
 
 *C3*. *[Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993)*  
   with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), and Yanxi Xie (谢妍曦)  
